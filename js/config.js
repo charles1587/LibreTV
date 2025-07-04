@@ -121,7 +121,7 @@ const API_SITES = {
     },
     qiqidys: {
         api: 'https://www.qiqidys.com/api.php/provide/vod',
-        name: '影视工厂'
+        name: '七七资源'
     },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
